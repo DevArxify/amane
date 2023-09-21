@@ -4,5 +4,5 @@ You can find it at [src/amane.py](https://github.com/ArxifyByte/amane/blob/main/
 Thank you to all the people who contributed in Amane's development ❤️
 
 # Credits
-©️ 2023 Arxify Development, all rights reserved to [@ArxifyByte](https://github.com/arxifybyte).<br>
+©️ 2023 Arxify Development, all rights reserved to [@DevArxify](https://github.com/devarxify).<br>
 Licensed under the [MIT license](https://github.com/ArxifyByte/amane/blob/main/LICENSE).
